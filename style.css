@@ -1,0 +1,23 @@
+p {
+    color: rgb(0, 0, 0);
+    background-color:#edfb82;
+}
+p::first-letter {
+    font-size: larger;
+    color: rgb(27, 21, 130);
+}
+body {
+    color: rgb(24, 33, 138);
+    background-color: rgb(126, 207, 227);
+}
+h2 {
+    color: rgb(97, 5, 5);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(247, 129, 147);
+}
+li {
+    color: rgb(0, 0, 0);
+}
+li:hover {
+    color: rgb(56, 103, 8);
+}
